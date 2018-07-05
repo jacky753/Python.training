@@ -1,0 +1,4 @@
+a = input("Do you have any questions?:")
+
+with open("q.txt", "w") as f:
+    f.write(a)

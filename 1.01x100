@@ -1,0 +1,6 @@
+def f(x):
+    return x ** 100
+
+answer = f(1.01) 
+
+print(answer)
